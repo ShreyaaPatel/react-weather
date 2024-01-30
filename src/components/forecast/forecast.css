@@ -4,7 +4,7 @@
 }
 
 .daily-item {
-  background-color: #f5f5f5;
+  background-color: #cacef2;
   border-radius: 15px;
   height: 40px;
   margin: 5px;
@@ -21,7 +21,7 @@
 
 .daily-item .day {
   cursor: inherit;
-  color: #212121;
+  color: #2a1b89;
   flex: 1 1;
   font-weight: 600;
   margin-left: 15px;
@@ -62,5 +62,5 @@
 }
 
 .daily-details-grid-item label:last-child {
-  color: #212121;
+  color: #c1bbbb;
 }
